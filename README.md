@@ -2,21 +2,21 @@
 
 ## Table of Contents
 
-[Types](#types)
-[Functions](#functions)
-[Classes](#classes)
-[Interfaces](#interfaces)
-[Generics](#generics)
-[Enums](#enums)
-[Type Inference](#type-inference)
-[Type Compatibility](#type-compatibility)
-[Advanced Types](#advanced-types)
-[Decorators](#decorators)
-[Modules](#modules)
-[Namespaces](#namespaces)
-[Declaration Merging](#declaration-merging)
-[JSX](#jsx)
-[Resources](#resources)
+- [Types](#types)
+- [Functions](#functions)
+- [Classes](#classes)
+- [Interfaces](#interfaces)
+- [Generics](#generics)
+- [Enums](#enums)
+- [Type Inference](#type-inference)
+- [Type Compatibility](#type-compatibility)
+- [Advanced Types](#advanced-types)
+- [Decorators](#decorators)
+- [Modules](#modules)
+- [Namespaces](#namespaces)
+- [Declaration Merging](#declaration-merging)
+- [JSX](#jsx)
+- [Resources](#resources)
 
 ## Types
 
